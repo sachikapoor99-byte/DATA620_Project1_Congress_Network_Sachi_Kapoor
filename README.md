@@ -27,3 +27,7 @@ Garret Graves had the highest degree centrality, while Jeff Duncan had the highe
 ## Tools Used
 
 Python, Jupyter Notebook, pandas, NetworkX, SciPy, Matplotlib, and Seaborn
+
+## Video Presentation
+
+[Watch the project presentation](https://youtu.be/u1S6C_D-qwk)
